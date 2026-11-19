@@ -14,33 +14,59 @@
 
 ## 关于我
 
-我是刘闽秦，一名 **AI 产品经理**。我关注用户需求、技术能力与业务价值之间的连接，尝试把复杂的模型能力转化为清晰、可靠、可验证的产品体验。
+我是刘闽秦，一名 **AI 产品经理**。我从真实用户任务出发，把需求拆成可落地的产品流程，再通过原型和验收标准验证效果。目前主要关注 **AI 应用、RAG、Agent 工作流与交互原型**。
 
-- 🔭 正在持续构建 AI 产品、交互原型与工作流
-- 🧠 关注 Agent、RAG、人机协作和 AI 产品评测
-- ✍️ 持续记录 AI 产品、模型能力与行业变化
-- 💬 欢迎围绕 AI 产品与产品实践交流
+<details>
+<summary><strong>了解我的工作方向</strong></summary>
 
-## ⭐ 全部项目
+- 构建 AI 产品、交互原型与可复用工作流
+- 关注模型能力如何转化为稳定、可检查的产品结果
+- 持续记录 AI 产品实践、模型能力与行业变化
 
-<table>
-  <tr>
-    <td width="50%"><strong><a href="https://github.com/Ethan101-Liu/warm-isle-demo">暖屿用户端</a></strong><br><sub>面向完整用户体验的高保真互动原型。</sub></td>
-    <td width="50%"><strong><a href="https://github.com/Ethan101-Liu/tryon-buddy">试穿搭子</a></strong><br><sub>支持自配模型、连续换装、穿搭对比与本地衣柜的中文 AI 试衣工作台。</sub></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Ethan101-Liu/zhihuitai-role-preview">知汇台角色预览</a></strong><br><sub>面向三类角色的免登录 RAG 中台产品预览。</sub></td>
-    <td><strong><a href="https://github.com/Ethan101-Liu/product-creation-workbench">AI 产品创建工作台</a></strong><br><sub>从想法、PRD、技术方案到开发验收的一站式工作台。</sub></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Ethan101-Liu/qidian-demo">起点互动单页</a></strong><br><sub>滚动剑仙开场、水墨技能书光标与沉浸式书封舞台。</sub></td>
-    <td><strong><a href="https://github.com/Ethan101-Liu/xiaoliu-Interior-design-skill">室内设计工作流 Skill</a></strong><br><sub>覆盖需求、方案、生图、改图与建模落地的五阶段工作流。</sub></td>
-  </tr>
-</table>
+</details>
 
-<p align="center"><a href="https://ethan101-liu.github.io/#projects"><strong>在个人网站浏览项目 →</strong></a></p>
+## ⭐ 精选项目
+
+<p>
+  <a href="https://github.com/Ethan101-Liu/warm-isle-demo"><img width="49%" src="./assets/project-warm-isle.svg" alt="暖屿用户端：完整用户体验与高保真互动原型" /></a>
+  <a href="https://github.com/Ethan101-Liu/tryon-buddy"><img width="49%" src="./assets/project-tryon.svg" alt="试穿搭子：连续换装、穿搭对比与本地衣柜" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/Ethan101-Liu/zhihuitai-role-preview"><img width="49%" src="./assets/project-zhihuitai.svg" alt="知汇台：三角色 RAG 中台产品预览" /></a>
+  <a href="https://github.com/Ethan101-Liu/product-creation-workbench"><img width="49%" src="./assets/project-workbench.svg" alt="AI 产品创建工作台：从想法到开发验收" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/Ethan101-Liu/qidian-demo"><img width="49%" src="./assets/project-qidian-new.svg" alt="起点互动单页：滚动开场、水墨光标与沉浸书封" /></a>
+  <a href="https://github.com/Ethan101-Liu/xiaoliu-Interior-design-skill"><img width="49%" src="./assets/project-interior-new.svg" alt="室内设计工作流：需求、方案、生图、改图与建模" /></a>
+</p>
+
+<details>
+<summary><strong>项目说明与在线体验</strong></summary>
+
+- **暖屿用户端**：围绕完整用户体验构建的高保真互动原型。
+- **试穿搭子**：支持自配模型、连续换装、穿搭对比与本地衣柜的中文 AI 试衣工作台。[在线体验](https://ethan101-liu.github.io/tryon-buddy/)
+- **知汇台**：面向三类角色的免登录 RAG 中台产品预览。
+- **AI 产品创建工作台**：覆盖想法、PRD、技术方案、开发任务和逐项验收。[在线体验](https://ethan101-liu.github.io/product-creation-workbench/)
+- **起点互动单页**：包含滚动剑仙开场、水墨技能书光标与沉浸式书封舞台。
+- **室内设计工作流**：覆盖需求、方案、生图、改图与建模落地。[在线体验](https://ethan101-liu.github.io/xiaoliu-Interior-design-skill/)
+
+</details>
+
+<p align="center"><a href="https://ethan101-liu.github.io/#projects"><strong>在个人网站浏览全部项目</strong></a></p>
 
 ## ✍️ 公开文章
+
+<p>
+  <a href="https://mp.weixin.qq.com/s/PYems8VVvLhI8Bkp-s1F1A"><img width="49%" src="./assets/article-sierra.jpg" alt="AI 客服一个季度新增 1.5 亿美元 ARR，Sierra 年化收入破 4 亿" /></a>
+  <a href="https://mp.weixin.qq.com/s/XjJV_oYGcv8r-hU1TffYWQ"><img width="49%" src="./assets/article-rag.jpg" alt="四种 RAG 怎么选：写给产品人的对照指南" /></a>
+</p>
+
+<p align="center"><sub>企业 Agent 商业化观察 · 写给产品人的 RAG 对照指南</sub></p>
+
+<details>
+<summary><strong>查看全部 8 篇文章</strong></summary>
 
 | 日期 | 文章 | 主题 |
 | --- | --- | --- |
@@ -53,13 +79,18 @@
 | 2026-10-23 | [下一笔预算，先别急着换更高分模型](https://mp.weixin.qq.com/s/CgpdkoohkjhULGPiwwWFjg) | AI 产品工程 |
 | 2026-10-23 | [四种 RAG 怎么选：写给产品人的对照指南](https://mp.weixin.qq.com/s/XjJV_oYGcv8r-hU1TffYWQ) | RAG |
 
-<p align="center"><a href="./ARTICLES.md"><strong>浏览完整文章归档 →</strong></a></p>
+</details>
 
-## 🚧 接下来
+<p align="center"><a href="./ARTICLES.md"><strong>浏览完整文章归档</strong></a></p>
+
+<details>
+<summary><strong>🚧 接下来</strong></summary>
 
 - [ ] 补充更多真实 AI 产品案例
 - [ ] 整理产品文档与评测方法
 - [ ] 持续发布 AI 产品观察文章
+
+</details>
 
 ---
 

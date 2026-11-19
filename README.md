@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="50%"><strong><a href="https://github.com/Ethan101-Liu/warm-isle-demo">暖屿用户端 Demo</a></strong><br><sub>面向完整用户体验的高保真互动原型。</sub></td>
+    <td width="50%"><strong><a href="https://github.com/Ethan101-Liu/warm-isle-demo">暖屿用户端</a></strong><br><sub>面向完整用户体验的高保真互动原型。</sub></td>
     <td width="50%"><strong><a href="https://github.com/Ethan101-Liu/tryon-buddy">试穿搭子</a></strong><br><sub>支持自配模型、连续换装、穿搭对比与本地衣柜的中文 AI 试衣工作台。</sub></td>
   </tr>
   <tr>

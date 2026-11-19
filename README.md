@@ -7,7 +7,7 @@
 <p align="center"><sub>点击上方工作台，打开我的个人网站</sub></p>
 
 <p align="center">
-  🌐 <a href="https://ethan101-liu.github.io/">个人网站</a> · 🧩 <a href="https://github.com/Ethan101-Liu?tab=repositories">全部项目</a> · ✍️ <a href="./ARTICLES.md">文章归档</a>
+  🌐 <a href="https://ethan101-liu.github.io/">个人网站</a> · 🧩 <a href="https://github.com/Ethan101-Liu?tab=repositories">全部项目</a> · ✍️ <a href="./ARTICLES.md">文章归档</a> · ✉️ <a href="mailto:minqinliu997@gmail.com">邮箱</a>
 </p>
 
 ---
@@ -23,54 +23,22 @@
 
 ## ⭐ 全部项目
 
-<p>
-  <a href="https://github.com/Ethan101-Liu/Ethan101-Liu.github.io"><img width="49%" src="./assets/project-portfolio.svg" alt="刘闽秦个人网站项目卡片" /></a>
-  <a href="https://github.com/Ethan101-Liu/qidian-demo"><img width="49%" src="./assets/project-qidian.svg" alt="起点中文网互动单页演示项目卡片" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%"><strong><a href="https://github.com/Ethan101-Liu/warm-isle-demo">暖屿用户端 Demo</a></strong><br><sub>面向完整用户体验的高保真互动原型。</sub></td>
+    <td width="50%"><strong><a href="https://github.com/Ethan101-Liu/tryon-buddy">试穿搭子</a></strong><br><sub>支持自配模型、连续换装、穿搭对比与本地衣柜的中文 AI 试衣工作台。</sub></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Ethan101-Liu/zhihuitai-role-preview">知汇台角色预览</a></strong><br><sub>面向三类角色的免登录 RAG 中台产品预览。</sub></td>
+    <td><strong><a href="https://github.com/Ethan101-Liu/product-creation-workbench">AI 产品创建工作台</a></strong><br><sub>从想法、PRD、技术方案到开发验收的一站式工作台。</sub></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Ethan101-Liu/qidian-demo">起点互动单页</a></strong><br><sub>滚动剑仙开场、水墨技能书光标与沉浸式书封舞台。</sub></td>
+    <td><strong><a href="https://github.com/Ethan101-Liu/xiaoliu-Interior-design-skill">室内设计工作流 Skill</a></strong><br><sub>覆盖需求、方案、生图、改图与建模落地的五阶段工作流。</sub></td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/Ethan101-Liu/xiaoliu-Interior-design-skill"><img width="49%" src="./assets/project-interior.svg" alt="小刘室内设计工作流 Skill 项目卡片" /></a>
-  <img width="49%" src="./assets/project-next.svg" alt="下一项目持续构建中" />
-</p>
-
-<details>
-<summary><strong>查看项目说明与在线体验</strong></summary>
-
-- [个人网站](https://ethan101-liu.github.io/)：以 LMQ OS 为视觉框架，集中展示个人介绍、项目、技能与公开文章。
-- [起点 · 总有一个世界](https://ethan101-liu.github.io/qidian-demo/)：非官方互动单页演示，包含滚动剑仙开场、水墨技能书光标和沉浸式书封舞台。
-- [小刘 · Interior Design Skill](https://ethan101-liu.github.io/xiaoliu-Interior-design-skill/)：覆盖需求分析、方案策划、效果图提示词、改图迭代与建模落地的室内设计工作流。
-
-</details>
-
-## 🧰 产品技能与标签
-
-### 产品与研究
-
-![AI 产品策略](https://img.shields.io/badge/AI%20产品策略-5369ED?style=flat-square)
-![用户研究](https://img.shields.io/badge/用户研究-5369ED?style=flat-square)
-![需求分析](https://img.shields.io/badge/需求分析-5369ED?style=flat-square)
-![竞品分析](https://img.shields.io/badge/竞品分析-5369ED?style=flat-square)
-![原型设计](https://img.shields.io/badge/原型设计-5369ED?style=flat-square)
-![效果评测](https://img.shields.io/badge/效果评测-5369ED?style=flat-square)
-
-### AI 产品方向
-
-![AI Agent](https://img.shields.io/badge/AI%20Agent-172033?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-172033?style=flat-square)
-![人机协作](https://img.shields.io/badge/人机协作-172033?style=flat-square)
-![Prompt Design](https://img.shields.io/badge/Prompt%20Design-172033?style=flat-square)
-![工作流设计](https://img.shields.io/badge/工作流设计-172033?style=flat-square)
-![公开写作](https://img.shields.io/badge/公开写作-172033?style=flat-square)
-
-### 实现与工具
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=172033)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
-> 技能清单会随着真实项目持续补充；当前标签来自现有公开仓库和已完成工作。
+<p align="center"><a href="https://ethan101-liu.github.io/#projects"><strong>在个人网站浏览项目 →</strong></a></p>
 
 ## ✍️ 公开文章
 
